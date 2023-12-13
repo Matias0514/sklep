@@ -10,9 +10,9 @@ Lista:
 
 2. Grafiki
 
--Olaf Karaś
--Robert Pazurkiewicz
--Oliwier Kisiel
+- Olaf Karaś
+- Robert Pazurkiewicz
+- Oliwier Kisiel
 
 3. Aplikacje
 
