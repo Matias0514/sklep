@@ -22,7 +22,7 @@ a) Menu i użytkownik
 - Dawid Leśniewski
 - Maciej Piotrowski
 - Olaf Karaś
--
+
 b) Menu admina
 
 - Maciej Brzóska
