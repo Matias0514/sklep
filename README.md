@@ -1,4 +1,11 @@
-# sklep
+# Sklep
+
+# Zarząd: 
+
+- (Lider) Maciej Piotrowski
+- (Zastępca lidera) Jakub Kowalski
+- (Zastępca lidera) Maciej Brzóska
+
 
 Lista:
 
